@@ -1,5 +1,5 @@
 /**
- * 
+ * JAVA_UI CALCULATOR
  */
 package mp3;
 
@@ -13,16 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-/**
 
- * After the execution of this program, a calculator will appear. For simple operation such addition, subtraction, division, modular division, and integer division enter
- * the first number then the sign corresponding the operation you need to execute, and the second number and press equal. However, when it comes to special functions, such as
- * trigonometric functions, 
-square root, 
-a number raised to a certain power, 
-the absolute value of a number, 
-the number 10 raised to a certain power;
- */
 public class CalculatorGui implements ActionListener {
 		private JFrame calculatorFrame;
 		private JPanel controlPanel;
@@ -577,3 +568,18 @@ public class CalculatorGui implements ActionListener {
 		
 	}
 }
+
+/**
+
+ * For simple operation such 
+*addition
+ *subtraction 
+*division
+ *modular division
+ *integer division enter
+ * trigonometric functions 
+*square root
+*a number raised to a certain power 
+*the absolute value of a number
+*the number 10 raised to a certain power
+ */
